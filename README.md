@@ -1,10 +1,10 @@
-description of the project
+# Description of the project
 
 
-description of the command interpreter:
+# Description of the command interpreter:
 
-->how to start it
+# How to start it
 
-->how to use it
+# How to use it
 
-->examples
+# Examples
