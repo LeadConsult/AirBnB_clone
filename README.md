@@ -28,5 +28,5 @@ or to use the non-interactive mode run:
 ```echo "your-command-goes-here" | ./console.py ```
 
 ## Authors:
-* @BrianBassey37 [Marcus I](https://github.com/Dr-MarcusI)
-* Esther A [Esther Adeyemi](https://github.com/esteri1)
+* @BrianBassey37 [B. Bassey](https://github.com/BrianBassey37)
+* @LeadConsult [A. Timothy](https://github.com/LeadConsult)
